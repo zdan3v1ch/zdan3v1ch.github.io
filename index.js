@@ -84,12 +84,7 @@ const myListOfMedicines = [
   {
     name: 'Нозакар гель мята',
     expireTime: '01-07-2025',
-  },
-  {
-    name: 'Тест',
-    expireTime: '01-07-2024',
-  },
-
+  }
 ]
 
 const sortArray = myListOfMedicines.sort((a, b) => {
