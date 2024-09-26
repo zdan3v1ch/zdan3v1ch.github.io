@@ -84,6 +84,10 @@ const myListOfMedicines = [
   {
     name: 'Нозакар гель мята',
     expireTime: '01-07-2025',
+  },
+  {
+    name: 'Цитрамон-Боримед (2шт)',
+    expireTime: '01-07-2028',
   }
 ]
 
