@@ -4,6 +4,10 @@ export const myListOfMedicines = [
     expireTime: '01-12-2026',
   },
   {
+    name: 'Смектосорб',
+    expireTime: '01-03-2025',
+  },
+  {
     name: 'Аскорбиновая кислота',
     expireTime: '01-04-2027',
   },
