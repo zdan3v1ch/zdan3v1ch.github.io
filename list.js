@@ -24,14 +24,6 @@ export const myListOfMedicines = [
     expireTime: '01-07-2027',
   },
   {
-    name: 'Флоксал',
-    expireTime: '01-12-2024',
-  },
-  {
-    name: 'Лазолван сироп',
-    expireTime: '01-10-2024',
-  },
-  {
     name: 'Наклофен',
     expireTime: '01-11-2026',
   },
@@ -84,15 +76,27 @@ export const myListOfMedicines = [
     expireTime: '01-11-2026',
   },
   {
-    name: 'Нафазолин',
-    expireTime: '01-05-2025',
-  },
-  {
     name: 'Нозакар гель мята',
     expireTime: '01-07-2025',
   },
   {
-    name: 'Цитрамон-Боримед (2шт)',
+    name: 'Цитрамон-Боримед',
     expireTime: '01-07-2028',
+  },
+  {
+    name: 'Линкас',
+    expireTime: '01-11-2026',
+  },
+  {
+    name: 'Ангримакс',
+    expireTime: '01-07-2026',
+  },
+  {
+    name: 'Гростудин',
+    expireTime: '01-12-2025',
+  },
+  {
+    name: 'Ибуклин экспресс',
+    expireTime: '01-03-2025',
   }
 ]
