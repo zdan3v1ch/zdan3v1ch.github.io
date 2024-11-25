@@ -28,10 +28,6 @@ export const myListOfMedicines = [
     expireTime: '01-11-2026',
   },
   {
-    name: 'Гевиран',
-    expireTime: '01-12-2024',
-  },
-  {
     name: 'Артелак ночной',
     expireTime: '01-03-2025',
   },
@@ -82,10 +78,6 @@ export const myListOfMedicines = [
   {
     name: 'Цитрамон-Боримед',
     expireTime: '01-07-2028',
-  },
-  {
-    name: 'Линкас',
-    expireTime: '01-11-2026',
   },
   {
     name: 'Ангримакс',
