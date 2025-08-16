@@ -1,13 +1,5 @@
 export const myListOfMedicines = [
   {
-    name: 'Декса Тобром',
-    expireTime: '01-12-2026',
-  },
-  {
-    name: 'Смектосорб',
-    expireTime: '01-03-2025',
-  },
-  {
     name: 'Аскорбиновая кислота',
     expireTime: '01-04-2027',
   },
@@ -27,10 +19,7 @@ export const myListOfMedicines = [
     name: 'Наклофен',
     expireTime: '01-11-2026',
   },
-  {
-    name: 'Артелак ночной',
-    expireTime: '01-03-2025',
-  },
+  
   {
     name: 'Мидокалм',
     expireTime: '01-09-2026',
@@ -47,10 +36,7 @@ export const myListOfMedicines = [
     name: 'Миконазол',
     expireTime: '01-05-2026',
   },
-  {
-    name: 'Гепарин',
-    expireTime: '01-04-2025',
-  },
+  
   {
     name: 'Нимесил',
     expireTime: '01-08-2026',
@@ -63,18 +49,12 @@ export const myListOfMedicines = [
     name: 'Ринодекса',
     expireTime: '01-03-2027',
   },
-  {
-    name: 'Лиотон',
-    expireTime: '01-01-2025',
-  },
+  
   {
     name: 'Никсар',
     expireTime: '01-11-2026',
   },
-  {
-    name: 'Нозакар гель мята',
-    expireTime: '01-07-2025',
-  },
+  
   {
     name: 'Цитрамон-Боримед',
     expireTime: '01-07-2028',
@@ -84,11 +64,25 @@ export const myListOfMedicines = [
     expireTime: '01-07-2026',
   },
   {
-    name: 'Гростудин',
-    expireTime: '01-12-2025',
+    name: 'Нифуроксазид',
+    expireTime: '10-2026',
+  },{
+    name: 'Оптинол',
+    expireTime: '10-2026',
+  },{
+    name: 'Пепсан-Р (2пакета)',
+    expireTime: '09-2026',
+  },{
+    name: 'Уголь 2 пластинки',
+    expireTime: '07-2027',
+  },{
+    name: 'Ацикловир',
+    expireTime: '08-2027',
+  },{
+    name: 'Моменекс',
+    expireTime: '11-2027',
+  },{
+    name: 'Дукресса',
+    expireTime: '11-2026',
   },
-  {
-    name: 'Ибуклин экспресс',
-    expireTime: '01-03-2025',
-  }
 ]
