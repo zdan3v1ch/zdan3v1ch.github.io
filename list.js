@@ -30,7 +30,7 @@ export const myListOfMedicines = [
   },
   {
     name: "Ультрафастин",
-    expireTime: "01-11-2025",
+    expireTime: "11-2025",
   },
   {
     name: "Миконазол",
@@ -128,5 +128,9 @@ export const myListOfMedicines = [
   {
     name: "Тобрадекс",
     expireTime: "02-2027",
+  },
+  {
+    name: "Лоратадин",
+    expireTime: "03-2027",
   },
 ];
