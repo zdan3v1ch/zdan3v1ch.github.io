@@ -125,4 +125,8 @@ export const myListOfMedicines = [
     name: "Пластырь разный",
     expireTime: "01-2037",
   },
+  {
+    name: "Тобрадекс",
+    expireTime: "02-2027",
+  },
 ];
